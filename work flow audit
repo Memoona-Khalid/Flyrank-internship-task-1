@@ -1,0 +1,29 @@
+Weekly Workflow Audit — FL-01 Setup
+Memoona Khalid | FlyRank AI Internship
+1. Recurring Task Audit
+#	Task	Real Context	Classification	Rationale
+1	Writing & debugging numerical simulation code	Computational physics coursework	Collaborate with AI	AI speeds up boilerplate and syntax, but I have to iterate with it since correctness depends on physics I understand, not just code that runs.
+2	Running lab experiments & taking measurements	Physics lab work	Just me	This is hands-on, physical work with real equipment — AI has no role in the actual measurement process.
+3	Writing lab reports	Physics lab write-ups	Delegate to AI, review	AI drafts the formulaic structure fast; I review to make sure my actual data and analysis are represented correctly.
+4	Studying physics theory for coursework	Coursework exam/concept prep	Just me	Understanding has to be mine — if AI does the thinking, I don't actually learn the material for exams.
+5	Solving problem sets	Coursework assignments	Collaborate with AI	I use AI to check my approach or get unstuck, but I work through the derivations myself first.
+6	Debugging Python/numerical code errors	Across coursework, CodeAlpha, DecodeLabs	Collaborate with AI	Fastest as back-and-forth — AI proposes a fix, I test it against my real setup (Windows 7 limits some options).
+7	Writing project code (chatbot/translator/object detection)	CodeAlpha internship tasks	Collaborate with AI	As a beginner coder I need AI to write and explain code, but I run and adapt it myself so I actually learn it.
+8	Writing README / repo documentation	CodeAlpha GitHub submissions	Delegate to AI, review	Documentation is formulaic and low-risk — AI drafts it well, I just fact-check the setup steps still work.
+9	Writing LinkedIn / progress posts	CodeAlpha and internship updates	Delegate to AI, review	AI is fast at professional-sounding copy; I review so it still sounds like me and stays accurate.
+10	Designing chain-of-thought prompts	DecodeLabs Project 2 (CoT Logic Engine)	Collaborate with AI	The task itself is prompt design with AI — it's iterative by nature, testing and refining together.
+11	Testing prompts against logic-trap riddles	DecodeLabs Project 2 validation	Just me	I need to independently verify the reasoning actually holds — trusting AI to grade its own logic defeats the test.
+12	Setting up tools / working around Windows 7 limits	Python/Colab/Replit setup for internship work	Collaborate with AI	AI is efficient at finding workaround options, but I have to verify each one actually works on my machine.
+13	Planning my weekly schedule	Balancing coursework, labs, CodeAlpha, DecodeLabs, FlyRank	Just me	Only I know my real deadlines, energy levels, and priorities — this needs judgment, not generation.
+14	Preparing for exams/quizzes	Computational physics coursework	Just me	Same as studying theory — the retrieval practice has to be mine for it to mean anything.
+15	Final formatting & proofreading before submission	Lab reports, CodeAlpha deliverables	Just me	Submission-ready accuracy is my responsibility — a final human pass catches anything AI-introduced.
+2. Three Target Tasks for FL-02 → FL-04
+Target Task 1: Debugging & extending code for CodeAlpha/DecodeLabs projects
+Classification: Collaborate with AI
+"Done well" means: the code runs without errors on the first re-test after AI's fix, passes all my own manual test cases, and I can explain what the fix changed and why — not just that it works.
+Target Task 2: Writing & debugging numerical simulation code for coursework
+Classification: Collaborate with AI
+"Done well" means: the simulation output matches the expected physical behavior or analytical solution within an acceptable tolerance, and I can explain every line well enough to defend it if asked.
+Target Task 3: Chain-of-thought prompt design & testing (DecodeLabs)
+Classification: Collaborate with AI
+"Done well" means: the prompt solves at least 8 of 10 logic-trap test riddles correctly, and the self-correction phase demonstrably catches and fixes at least one deliberately seeded wrong answer during testing.
