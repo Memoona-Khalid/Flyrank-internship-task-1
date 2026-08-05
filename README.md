@@ -7,7 +7,7 @@
 ## What's in this repo
 
 - `Workflow_Audit_FL01_Memoona.docx` — audit of 15 recurring tasks from coursework (computational physics simulations, labs), and the CodeAlpha and DecodeLabs internships. Each task is classified as *just me*, *delegate to AI with review*, or *collaborate with AI*, with a one-line rationale. Includes the three target tasks selected for reuse in FL-02 through FL-04, each with a measurable "done well" definition.
-- `claude_project_screenshot.png` — screenshot of the configured Claude Project ("AI Fluency Internship Tasks") showing the custom instructions used for this internship's work.
+- `claude_project_screenshot.jpg` — screenshot of the configured Claude Project ("AI Fluency Internship Tasks") showing the custom instructions used for this internship's work.
 
 ## Toolkit
 
